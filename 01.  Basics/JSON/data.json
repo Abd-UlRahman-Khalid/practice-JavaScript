@@ -1,0 +1,11 @@
+{
+  "name": "John Doa",
+  "age": 20,
+  "email": "js@gmail.com",
+  "isSubscribed": true,
+  "hobbies": ["Reading", "Running", "Cooking"],
+  "address": {
+    "city": "NewYork",
+    "idk": true
+  }
+}
